@@ -10,7 +10,7 @@ print("Alright, Veronica picked the number, try to guess it...")
 
 user_chance = 0
 computer_guess = random.randint(1, 50)
-while user_chance != 10:
+while user_chance < 10:
     try:
         user_guess = int(input("ENTER: "))
         if user_guess > computer_guess:
