@@ -39,3 +39,7 @@ Number_Guessing_Game/
 - Improve logical thinking and debugging skills
 - Practice Git and GitHub workflow
 - Build a beginner-friendly Python project
+
+## Author
+
+- Arnav Maitrey
